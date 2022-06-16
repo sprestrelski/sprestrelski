@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Sam!
-![counter](https://enb44bntqdlerfp.m.pipedream.net) 
+![](https://enb44bntqdlerfp.m.pipedream.net) 
 
 About Me
 - 💻 Mathematics-Computer Science Major at UC San Diego.  
